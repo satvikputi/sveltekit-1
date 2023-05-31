@@ -7,20 +7,29 @@
 	<h1>About this app</h1>
 
 	<p>
-		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your own by typing the
-		following into your command line and following the prompts:
+		This is a Rock Paper Scissor Game. Rock Paper Scissors is a simple hand game played between two people, often used as a way to make decisions or settle disputes in a fair manner. The game is based on a set of rules that determine the outcome of each round.
 	</p>
 
 	<pre>npm create svelte@latest</pre>
 
 	<p>
-		The page you're looking at is purely static HTML, with no client-side interactivity needed.
-		Because of that, we don't need to load any JavaScript. Try viewing the page's source, or opening
-		the devtools network panel and reloading.
+		Origin: The exact origin of Rock Paper Scissors is uncertain, as it has been played in various forms in different cultures throughout history. The game's origins can be traced back to ancient China, where it was known as "Shoushiling" or "Hand Command." It was believed to have been played as early as the Han dynasty (206 BC – 220 AD).
 	</p>
 
 	<p>
-		The <a href="/sverdle">Sverdle</a> page illustrates SvelteKit's data loading and form handling. Try
-		using it with JavaScript disabled!
+		Rules of the Game:
+Rock Paper Scissors is typically played with two participants. The players simultaneously chant "Rock, Paper, Scissors" and then make a hand gesture representing one of the three options: rock, paper, or scissors.
+
+Rock: Form a fist with your hand.
+Paper: Extend your hand flat, with fingers together.
+Scissors: Extend your hand, separating your index and middle fingers to resemble a pair of scissors.
+The outcome of each round is determined by the following rules:
+
+Rock beats scissors: The rock smashes the scissors.
+Scissors beats paper: The scissors cut the paper.
+Paper beats rock: The paper covers the rock.
+If both players make the same gesture, it results in a tie, and the game is usually replayed until a winner is determined. The game continues with multiple rounds until one player reaches a previously agreed-upon number of wins or until a specific objective is achieved.
+
+Rock Paper Scissors is a game that relies on chance, psychology, and quick decision-making. It has become a popular pastime and has even been studied in the context of game theory and human psychology.
 	</p>
 </div>
